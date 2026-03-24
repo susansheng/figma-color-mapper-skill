@@ -1,0 +1,7 @@
+name,target,C_color,Q_color
+Core/Color/Blue/Blue-1·#006FF6,#00CAD9,#006FF6,#00CAD9
+Core/Color/Blue/Blue-2,#00B5C4,,
+#FF6600,#FA6E0A,#FF6600,#FA6E0A
+#006FF6-#006FF6,#FA6E0A-#FA4A0A,"#006FF6 | #006FF6","#FA6E0A | #FA4A0A"
+radius:8,12,8,12
+radius:4,6,4,6
